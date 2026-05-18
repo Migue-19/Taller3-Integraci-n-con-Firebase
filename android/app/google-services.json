@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265470045772",
+    "project_id": "taller3-25b12",
+    "storage_bucket": "taller3-25b12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265470045772:android:7a057d6aced96f1e978ee9",
+        "android_client_info": {
+          "package_name": "com.example.firabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMQfXrWOhxzLfQQRSeB1TZX3N8I3QuQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
